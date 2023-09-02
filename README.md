@@ -3,7 +3,7 @@ __Personal Portfolio__ <br>
 Works can range from scripts to visualizations
 
 __Project Details:__ <br>
-1. hehe
-2. haha
+1. [Language] Title
+2. [Dashboard/Report] Title
 
 _FJLSotto_
