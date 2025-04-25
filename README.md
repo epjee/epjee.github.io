@@ -1,9 +1,51 @@
-# Projects
-__Personal Portfolio__ <br>
-Works can range from scripts to visualizations
+# 🌐 Personal Portfolio – [Francis Sotto]
 
-__Project Details:__ <br>
-1. [Language] Title
-2. [Dashboard/Report] Title
+Welcome to my data analytics portfolio!  
+This website is built to showcase my work as a **Data Analyst** and/or **Data Scientist**, highlighting my technical skills, projects, and insights.
 
-_FJLSotto_
+Live site: [https://epjee.github.io](https://epjee.github.io)
+
+---
+
+## 📁 What's in This Repo
+
+| File / Folder | Description |
+|---------------|-------------|
+| `index.html` | Homepage of the portfolio |
+| `css/`        | Custom stylesheets |
+| `images/`     | Profile pic, project screenshots, etc. |
+| `resume/`     | PDF version of my resume |
+| `projects.html` *(optional)* | Dedicated project listing page |
+| `README.md`   | You’re here! 🎉 |
+
+---
+
+## ✨ Features
+
+- Clean, responsive landing page
+- Project links with descriptions
+- Resume download option
+- Contact links (GitHub, LinkedIn, Email)
+
+---
+
+## 📬 Contact
+
+Feel free to reach out or connect:
+
+- [LinkedIn](https://www.linkedin.com/in/francisjay)
+- [GitHub](https://github.com/epjee)
+- [Email](mailto:fjlsotto@gmail.com)
+
+---
+
+## 💡 Tech Stack
+
+- HTML5 + CSS3
+- GitHub Pages for hosting
+- (Optional) JavaScript, Bootstrap, or Jekyll for enhancements
+
+---
+
+Thanks for visiting! 🚀  
+– _FJLSotto_
