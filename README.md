@@ -1,6 +1,6 @@
-# 🌐 Personal Portfolio – [Francis Sotto]
+# 🌐 Personal Portfolio – Francis Sotto
 
-Welcome to my data analytics portfolio!  
+Welcome to my portfolio!  
 This website is built to showcase my work as a **Data Analyst** and/or **Data Scientist**, highlighting my technical skills, projects, and insights.
 
 Live site: [https://epjee.github.io](https://epjee.github.io)
